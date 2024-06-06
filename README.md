@@ -6,7 +6,7 @@ A simple web-based piano application that allows users to play piano notes using
 
 ## Demo
 
-You can try the live demo of the application (https://playful-piano-l606es8s5-byteers-projects.vercel.app/).
+You can try the live demo of the application[here] (https://playful-piano-l606es8s5-byteers-projects.vercel.app/).
 
 ## Features
 
@@ -21,7 +21,7 @@ To get a local copy up and running, follow these steps:
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/Byteers/piano-web-app.git
+    git clone [https://github.com/Byteers/Piano.git]
     ```
 2. **Navigate to the project directory:**
     ```sh
@@ -53,7 +53,7 @@ Contributions are what make the open-source community such an amazing place to l
 
 1. **Fork the Project:**
     ```sh
-    git fork https://github.com/Byteers/piano-web-app.git
+    git fork https://github.com/Byteers/Piano.git
     ```
 2. **Create your Feature Branch:**
     ```sh
