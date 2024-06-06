@@ -6,7 +6,7 @@ A simple web-based piano application that allows users to play piano notes using
 
 ## Demo
 
-You can try the live demo of the application[here] (https://playful-piano-l606es8s5-byteers-projects.vercel.app/).
+You can try the live demo of the application[here](https://playful-piano-l606es8s5-byteers-projects.vercel.app/).
 
 ## Features
 
