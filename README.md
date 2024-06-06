@@ -21,11 +21,11 @@ To get a local copy up and running, follow these steps:
 
 1. **Clone the repository:**
     ```sh
-    git clone [https://github.com/Byteers/Piano.git]
+    git clone https://github.com/Byteers/Piano.git
     ```
 2. **Navigate to the project directory:**
     ```sh
-    cd piano-web-app
+    cd Piano
     ```
 3. **Open the `index.html` file in your web browser:**
     ```sh
